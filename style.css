@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/* 共通部分
+--------------------*/
+html {
+    font-size: 100%;
+}
+body {
+    background-color: #D1FFEC;
+}
