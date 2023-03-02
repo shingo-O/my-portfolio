@@ -7,4 +7,17 @@ html {
 }
 body {
     background-color: #D1FFEC;
+    font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体";
+}
+a {
+    text-decoration: none;
+}
+
+/* ナビゲーションメニュー
+---------------------*/
+#nav {
+    display: flex;
+    justify-content: space-around; 
+    padding: 10px 220px;
+    list-style: none;
 }
