@@ -29,10 +29,23 @@ a {
     text-align: center;
     margin-top: 5%;
 }
+/* 名前 */
 #name {
     font-size: 5rem;
     
 }
+/* 所属 */
 #belong {
     font-size: 2rem;
+}
+
+/* コンテンツの共通部分
+----------------------*/
+.title {
+    text-align: center;
+    font-size: 3rem;
+}
+.content {
+    font-size: 18px;
+    margin: auto 15% auto;
 }
